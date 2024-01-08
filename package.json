@@ -2,6 +2,7 @@
   "name": "03-json-data-display-using-dom",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://github.com/Mushkir/",
   "type": "module",
   "scripts": {
     "dev": "vite",
